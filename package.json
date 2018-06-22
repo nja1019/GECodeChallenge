@@ -1,0 +1,15 @@
+{
+  "name": "ge-code-challenge",
+  "version": "1.0.0",
+  "description": "Crawler that requests pages from the Internet, parses the content to extract all the links in the page, and visits the links to crawl those pages, to an infinite depth.",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nick Achin",
+  "license": "ISC"
+}
